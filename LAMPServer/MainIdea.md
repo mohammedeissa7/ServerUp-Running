@@ -6,3 +6,6 @@
 - Apache (httpd)
 - MySQL
 - PHP
+- Wordpress
+
+I will give you [Steps to make the server](./Steps.md)
