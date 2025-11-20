@@ -1,5 +1,5 @@
 # File System questions
-- 
+- pertaining to file systems and file security.using basic permissions, adding ACLs, and restricting user space with quotas. At this point,the setup of all disks, partitions, and file systems.
 <details>
 <summary>1. What is the difference between an ext2 and ext3 file system?</summary>
 
